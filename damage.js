@@ -7,3 +7,4 @@ Enemy.prototype.damage = function () {
     onEnemyDamage.apply(this, arguments);
   }
 };
+

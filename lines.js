@@ -24,3 +24,4 @@ Movement.prototype.updateAnimation = function () {
     renderLine(this.app, enemy.localPosition, position, RED_COLOR);
   }
 }
+
